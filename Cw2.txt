@@ -7,7 +7,7 @@ public class Main
 		
 		System.out.println("Hi, My name is Mohammed and I am 17 years old");
 		
-		int height = 161;
+		int height = 160;
 		
 		if (height >= 160)
 		System.out.println("You can pass");
