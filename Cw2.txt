@@ -1,0 +1,16 @@
+public class Main
+{
+	public static void main(String[] args) {
+
+		String name = "Yousef";
+		int age = 18;
+		
+		System.out.println("Hi, My name is Mohammed and I am 17 years old");
+		
+		int height = 161;
+		
+		if (height >= 160)
+		System.out.println("You can pass");
+	} 
+
+}
