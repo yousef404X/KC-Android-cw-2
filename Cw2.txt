@@ -10,8 +10,14 @@ public class Main
 		
 		int height = 160;
 		
-		if (height >= 160)
-		System.out.println("You can pass");
-	} 
+		if (height >= 160){
+		    System.out.println("You can pass");
+		}else{
+		    System.out.println("You cannot pass");
+		}
+		
+		
+
+	}
 
 }
